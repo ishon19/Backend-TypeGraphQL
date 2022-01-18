@@ -1,0 +1,24 @@
+{
+  "name": "backend-typegraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishon19/Backend-TypeGraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishon19/Backend-TypeGraphQL/issues"
+  },
+  "homepage": "https://github.com/ishon19/Backend-TypeGraphQL#readme",
+  "dependencies": {
+    "@types/node": "^17.0.9",
+    "typescript": "^4.5.4"
+  }
+}
